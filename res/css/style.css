@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+body{
+  background-color: rgb(157, 85, 58)
+}
+#ui{
+  background-color: rgb(248, 180, 155);
+  border: 10px solid rgb(221, 152, 126);
+  position: absolute;
+  top: 10%;
+  left: 25%;
+  width: 50%;
+}
+#cookie {
+  max-width: 360px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+#text {
+  text-align: center;
+  font-size: 24px;
+  font-family: "Gloria Hallelujah";
+}
+#counter{
+  font-size: 28px
+}
+#cookie:hover{
+  max-width: 370px;
+  padding: 5px;
+}
